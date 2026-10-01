@@ -1,0 +1,8 @@
+{
+  "name": "Kalasalingam University (KLU) Attendance Calculator & Bunk Planner",
+  "description": "Smart, independent attendance tracker and bunk forecast calculator for Kalasalingam Academy of Research and Education (KLU / KARE) students with L-T-P-S support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
